@@ -20,7 +20,7 @@ This Python script scrapes Amazon for product offers, filtering by a specified d
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/darlysson-nonato/amazon-scraper.git
+    git clone https://github.com/darlysson-andrade/amazon-scraper.git
     ```
 
 2. Navigate into the project directory:
